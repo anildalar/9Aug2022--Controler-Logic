@@ -14,8 +14,8 @@ Please Log
 Roles
 
 1. Admin
-2. customer
-3. seller
-4. customercare
-5. deliveryboy
-6. deliveryPartener
+2. Customer
+3. Seller
+4. Customercare
+5. Deliveryboy
+6. DeliveryPartener
