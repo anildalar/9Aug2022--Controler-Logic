@@ -1,0 +1,21 @@
+JS -Foundation Day 30
+
+How to organize code structure
+Make Routes Modular (Express Router )
+Write controller logic
+
+Use Case / Case Study
+
+2. Suppose you are developing an application on Ecommerce System like Flipkart
+
+Can anybody think about the system roles will be used ?
+
+Please Log
+Roles
+
+1. Admin
+2. customer
+3. seller
+4. customercare
+5. deliveryboy
+6. deliveryPartener
